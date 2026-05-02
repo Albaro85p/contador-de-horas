@@ -1,0 +1,4 @@
+To install the program, you must compile it with clang++. Here is the exact command:
+clang++ -Wall -Wextra -Werror contador.cpp -o contador -v
+
+If you want to compile the program with another compiler, you can! :)
